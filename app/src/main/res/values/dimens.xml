@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_padding_top">15dp</dimen>
+    <dimen name="item_padding_left">15dp</dimen>
+    <dimen name="linear_paddingleft">15dp</dimen>
+    <dimen name="tv_bottom">10dp</dimen>
+</resources>

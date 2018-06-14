@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialerSmsApp</string>
+    <string name="app_dialer">电话</string>
+    <string name="app_sms">短信</string>
+</resources>
